@@ -1,0 +1,56 @@
+.div2 {
+    border: 1px solid black;
+    height: 800px;
+    width: 700px;
+    margin: auto;
+    box-shadow: 5px 2px 20px black;
+}
+.P1 {
+    color: red;
+    margin-left: 58px;
+}
+.P2 {
+    color: red;
+    margin-left: 400px;
+    position: relative;
+    top: -40px;
+}
+.P3 {
+    margin-left: 58px;
+}
+.P4 {
+    color: red;
+    margin-left: 400px;
+    top: -40px;
+    position: relative;
+}
+.P5 {
+    margin-left: 200px;
+}
+.div1 {
+    margin-left: 58px;
+    margin-top: 10px;
+    position: relative;
+    top:-40px;
+}
+table{
+    border-collapse: collapse;
+    border: 1px solid black;
+    letter-spacing: 1px;
+    margin: 15px auto;
+    height: 450px;
+    width: auto;
+}
+td , th {
+    border: 1px solid black;
+}
+thead {
+    background-color: red;
+    color: white;
+    justify-content: center;
+    width: 50%;
+}
+.tde {
+    width: 55%;
+    font-size: small;
+}
